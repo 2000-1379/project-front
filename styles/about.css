@@ -1,0 +1,16 @@
+body{
+    background-color: deepskyblue;
+}
+
+.header-text{
+    color: red;
+}
+
+#my-div{
+    width: 500px;
+    height: 100px;
+    background-color: greenyellow;
+    display: flex;
+    border-radius: 10px;
+    border-style: dotted;
+}
